@@ -1,10 +1,10 @@
 ---
 title: Decoding Direct Market Access and FIX
 ---
-<h2 id="section-1">Section 1</h2>
+<h2 id="The Technology Powering DMA">Section 1</h2>
 <p>Some content for section 1.</p>
 
-<h2 id="section-2">Section 2</h2>
+<h2 id="The Technology Powering DMA">Section 2</h2>
 <p>More content for section 2.</p>
 
 ## What is Direct Market Access (DMA)?
