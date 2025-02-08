@@ -6,7 +6,6 @@ title: Decoding Direct Market Access and FIX
 
 <h2 id="section-2">Section 2</h2>
 <p>More content for section 2.</p>
-# Decoding Direct Market Access and FIX
 
 ## What is Direct Market Access (DMA)?
 
