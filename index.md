@@ -56,17 +56,21 @@ Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListe
 Late off reports from  The Economic Times and The Hindu Bussiness Line, Security and Exchnage Board of India (SEBI) plans bridging the regulatory gaps for retail investors who want to use algos and SEBI’s Direct Market Access (DMA) which was only being used by institutional investors. 
 - https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
 - https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
-However Nithin Kamath,Founder & CEO at Zerodha & Rainmatter is not confident on this aspect.
+## Zerodha on DMA for Retailers in India
+However Nithin Kamath,Founder & CEO at Zerodha & Rainmatter who was initially not confident on this aspect has now a chnage of mind and awaits compliance guidelines from SEBI by 1st April 2025. He says "The Sebi circular on API usage and algo trading is out. What you need to know: If you’re a retail trader using broker APIs to automate trades, you can do so as long as your order frequency is below an exchange-prescribed threshold,”
+
+Read more at:
+https://economictimes.indiatimes.com/markets/stocks/news/zerodhas-nithin-kamath-breaks-down-sebis-new-retail-algo-trading-rules-what-you-must-know/articleshow/118007360.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
 (Zerodha is India's biggest free brokerage firm)
 
 ## Conclusion
 The choice between DMA and FIX, or often a combination of both, depends on the specific needs of the trading strategy.  For ultra-low latency sensitive strategies where every millisecond counts, DMA is often preferred.  For strategies where a wider range of functionality and easier integration are prioritized, FIX is often the better choice.  Many trading operations leverage both: using FIX for standard order flow and DMA for specific, time-critical trades within the overall strategy.  Ultimately, understanding the strengths and limitations of each is critical for any participant in today's electronic trading landscape.
 
 ## References 
--https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
--https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
--https://zerodha.com/z-connect/rainmatter/direct-market-access-dma-for-retail-investors
--https://www.nseindia.com/trade/platform-services-non-neat-direct-market-access
--https://www.fixtrading.org/
+- https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
+- https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
+- https://zerodha.com/z-connect/rainmatter/direct-market-access-dma-for-retail-investors
+- https://www.nseindia.com/trade/platform-services-non-neat-direct-market-access
+- https://www.fixtrading.org/
 
 
