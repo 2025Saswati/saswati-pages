@@ -21,11 +21,11 @@ FIX is a messaging standard for electronic communication of trade-related inform
 A FIX message consists of three main components: Header, Body, and Trailer.
 ## Header: 
 It has tags-
-8 – BeginString
-35 – MsgType
-49 – SenderCompID
-56 – TargetCompID
-52 – SendingTime
+-8 – BeginString
+-35 – MsgType
+-49 – SenderCompID
+-56 – TargetCompID
+-52 – SendingTime
 ## Body: 
 Includes session and application message content
 ## Trailer:
@@ -46,9 +46,6 @@ Luxoft is a top-tier Murex Alliance Partner too
 *   **Deterministic Processing:** FIX engines are often designed for deterministic behavior, ensuring that the time taken to process each message is predictable and consistent.
 *   **Tailored to Specific Strategies:** By including only the essential information needed for a particular trading strategy, traders can significantly reduce the size of FIX messages. Smaller messages translate to faster transmission times, which is crucial in optimizing processing and suitable for time-sensitive trading environments like HFT.
 
-
-**(Visual: A flowchart showing how HFT strategies utilize both FIX and DMA for rapid order execution)**
-
 ## A Global View of DMA
 
 | Feature          | US                                     | Europe                                  | Asia                                      | Australia                             | Canada                              |
@@ -60,8 +57,8 @@ Luxoft is a top-tier Murex Alliance Partner too
 
 ## SEBI and Brokerage Perspectives on DMA for Retailers
 Late off reports from  The Economic Times and The Hindu Bussiness Line, Security and Exchnage Board of India (SEBI) plans bridging the regulatory gaps for retail investors who want to use algos and SEBI’s Direct Market Access (DMA) which was only being used by institutional investors. 
-https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
-https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
+-https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
+-https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
 However Nithin Kamath,Founder & CEO at Zerodha & Rainmatter is not confident on this aspect.
 (Zerodha is a free brokerage firm)
 
