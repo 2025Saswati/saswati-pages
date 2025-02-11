@@ -54,10 +54,10 @@ Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListe
 
 ## SEBI and Brokerage Perspectives on DMA for Retailers
 Late off reports from  The Economic Times and The Hindu Bussiness Line, Security and Exchnage Board of India (SEBI) plans bridging the regulatory gaps for retail investors who want to use algos and SEBI’s Direct Market Access (DMA) which was only being used by institutional investors. 
--https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
--https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
+- https://www.thehindubusinessline.com/markets/stock-markets/sebi-expands-algo-trading-to-retail-investors-new-norms-to-take-effect-from-aug-1/article69180422.ece
+- https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-retail-investors-participate-in-algo-trading/articleshow/116285751.cms?from=mdr
 However Nithin Kamath,Founder & CEO at Zerodha & Rainmatter is not confident on this aspect.
-(Zerodha is a free brokerage firm)
+(Zerodha is India's biggest free brokerage firm)
 
 ## Conclusion
 The choice between DMA and FIX, or often a combination of both, depends on the specific needs of the trading strategy.  For ultra-low latency sensitive strategies where every millisecond counts, DMA is often preferred.  For strategies where a wider range of functionality and easier integration are prioritized, FIX is often the better choice.  Many trading operations leverage both: using FIX for standard order flow and DMA for specific, time-critical trades within the overall strategy.  Ultimately, understanding the strengths and limitations of each is critical for any participant in today's electronic trading landscape.
