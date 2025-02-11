@@ -32,13 +32,14 @@ Includes session and application message content
 Has just Tag10=checksum
 
 ## Murex and FIX
-Luxoft is a top-tier Murex Alliance Partner.Murex is a financial services that provides financial software for trading, treasury, risk, and post-trade operations.
+Murex is a financial services that provides financial software for trading, treasury, risk, and post-trade operations.
 Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListener tasks (from within MXML exchange).
 For Further information visit: [FIX Connectivity | MX Official Documentation](link-to-documentation)
 
-Luxoft featured on FIX Trading Community
+## Luxoft featured on FIX Trading Community
 https://www.fixtrading.org/pl-categs/emea-2022-exhibiting-sponsor/
 ![image](https://github.com/user-attachments/assets/928071a6-2252-408f-a268-637ac81364a6)
+Luxoft is a top-tier Murex Alliance Partner too
 
 ## FIX and DMA Fueling HFT
 *   **Speed:** DMA provides the necessary speed for HFT, while FIX enables the rapid, standardized message exchange that algorithmic trading relies on. This combination allows for extremely fast trading decisions.
