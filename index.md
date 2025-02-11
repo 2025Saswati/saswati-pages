@@ -35,7 +35,7 @@ Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListe
 
 ## Luxoft featured on FIX Trading Community
 - https://www.fixtrading.org/pl-categs/emea-2022-exhibiting-sponsor/
-- ![image](https://github.com/user-attachments/assets/928071a6-2252-408f-a268-637ac81364a6)
+![image](https://github.com/user-attachments/assets/928071a6-2252-408f-a268-637ac81364a6)
 - Luxoft is a top-tier Murex Alliance Partner too
 
 ## FIX and DMA Fueling HFT
