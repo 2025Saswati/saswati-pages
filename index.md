@@ -19,14 +19,17 @@ DMA relies on high-speed internet, co-location services (servers placed near the
 
 FIX is a messaging standard for electronic communication of trade-related information. It's like a universal language for trading systems, ensuring they can all talk to each other. This standardization reduces errors and speeds up communication. FIX consists of two layers. First is the Session layer, which handles the handshake between parties, data integrity, message delivery, and sequencing. The second layer is the Application Layer, which deals with business-specific functions like order creation, cancellation, replacement, etc., and it parses the execution reports and subscribes to the market data.
 A FIX message consists of three main components: Header, Body, and Trailer.
-Header: It has tags-
+## Header: 
+It has tags-
 8 – BeginString
 35 – MsgType
 49 – SenderCompID
 56 – TargetCompID
 52 – SendingTime
-Body: Includes session and application message content
-Trailer: Has just Tag10=checksum
+## Body: 
+Includes session and application message content
+## Trailer:
+Has just Tag10=checksum
 
 ## Murex and FIX
 Luxoft is a top-tier Murex Alliance Partner.Murex is a financial services that provides financial software for trading, treasury, risk, and post-trade operations.
