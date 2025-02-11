@@ -21,11 +21,11 @@ FIX is a messaging standard for electronic communication of trade-related inform
 A FIX message consists of three main components: Header, Body, and Trailer.
 ## Header: 
 It has tags-
--8 – BeginString
--35 – MsgType
--49 – SenderCompID
--56 – TargetCompID
--52 – SendingTime
+- 8 – BeginString
+- 35 – MsgType
+- 49 – SenderCompID
+- 56 – TargetCompID
+- 52 – SendingTime
 ## Body: 
 Includes session and application message content
 ## Trailer:
