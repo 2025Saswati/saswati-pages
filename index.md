@@ -34,9 +34,9 @@ Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListe
 -[FIX Connectivity | MX Official Documentation](link-to-documentation)
 
 ## Luxoft featured on FIX Trading Community
-https://www.fixtrading.org/pl-categs/emea-2022-exhibiting-sponsor/
-![image](https://github.com/user-attachments/assets/928071a6-2252-408f-a268-637ac81364a6)
-Luxoft is a top-tier Murex Alliance Partner too
+- https://www.fixtrading.org/pl-categs/emea-2022-exhibiting-sponsor/
+- ![image](https://github.com/user-attachments/assets/928071a6-2252-408f-a268-637ac81364a6)
+- Luxoft is a top-tier Murex Alliance Partner too
 
 ## FIX and DMA Fueling HFT
 *   **Speed:** DMA provides the necessary speed for HFT, while FIX enables the rapid, standardized message exchange that algorithmic trading relies on. This combination allows for extremely fast trading decisions.
