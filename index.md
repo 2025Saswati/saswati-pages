@@ -71,3 +71,4 @@ The choice between DMA and FIX, or often a combination of both, depends on the s
 -https://www.nseindia.com/trade/platform-services-non-neat-direct-market-access
 -https://www.fixtrading.org/
 
+
