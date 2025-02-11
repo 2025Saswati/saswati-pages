@@ -1,12 +1,6 @@
 ---
 title: Decoding Direct Market Access and FIX
 ---
-<h2 id="The Technology Powering DMA">Section 1</h2>
-<p>Some content for section 1.</p>
-
-<h2 id="The Technology Powering DMA">Section 2</h2>
-<p>More content for section 2.</p>
-
 ## What is Direct Market Access (DMA)?
 
 Direct Market Access (DMA) allows traders to connect directly to an exchange order book, bypassing traditional brokers. This offers faster order execution, greater control, and increased transparency. Think of it as having a direct line to the trading floor. DMA is not new, but it is just now starting to take a stance in the brokerage arena.
@@ -21,7 +15,7 @@ FIX is a messaging standard for electronic communication of trade-related inform
 A FIX message consists of three main components: Header, Body, and Trailer.
 ## Header: 
 It has tags-
-- 8 – BeginString
+- 8  – BeginString 
 - 35 – MsgType
 - 49 – SenderCompID
 - 56 – TargetCompID
@@ -30,7 +24,9 @@ It has tags-
 Includes session and application message content
 ## Trailer:
 Has just Tag10=checksum
-
+## Exaple of a FIX message 
+- A buy order for 100 shares of IBM at a limit price of $150.
+- 8=FIX.4.2|9=175|35=D|49=CLIENT123|56=BROKER456|52=20240727-14:30:00|11=ORDER001|21=1|55=IBM|54=1|38=100|40=2|44=150|10=123
 ## Murex and FIX
 Murex is a financial services that provides financial software for trading, treasury, risk, and post-trade operations.
 Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListener tasks (from within MXML exchange).
