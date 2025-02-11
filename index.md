@@ -30,7 +30,8 @@ Has just Tag10=checksum
 ## Murex and FIX
 Murex is a financial services that provides financial software for trading, treasury, risk, and post-trade operations.
 Murex supports FIX messaging through FIX service, FIXSender, and FIXServiceListener tasks (from within MXML exchange).
-For Further information visit: [FIX Connectivity | MX Official Documentation](link-to-documentation)
+-For Further information visit (References for Murex customers and vendors):
+-[FIX Connectivity | MX Official Documentation](link-to-documentation)
 
 ## Luxoft featured on FIX Trading Community
 https://www.fixtrading.org/pl-categs/emea-2022-exhibiting-sponsor/
